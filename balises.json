@@ -1,6 +1,6 @@
 [
       {
-        "nom": "<code>&lt;header&gt;</code>",
+        "nom": "header",
         "description": "L’élément <code>&lt;header&gt;</code> définit l’en-tête d’un document ou d’une section. Il peut être utilisé pour contenir une introduction ou des liens de navigation.<br>Vous pouvez avoir plusieurs éléments <code>&lt;header&gt;</code> dans un même document.",
         "attributs": [
           "id",
@@ -8,7 +8,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;footer&gt;</code>",
+        "nom": "footer",
         "description": "La balise <code>&lt;footer&gt;</code> définit un pied de page d’un document ou d’un élément <code>&lt;article&gt;</code>.<br>Un élément <code>&lt;footer></code> doit contenir des informations sur l’élément auquel il appartient. <br>Un pied de page contient généralement l’auteur du document, les informations de copyright, des liens vers des conditions d’utilisation, informations de contact, etc … <br>Vous pouvez avoir plusieurs éléments <code>&lt;footer&gt;</code> dans un seul document.",
         "attributs": [
           "id",
@@ -16,7 +16,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;div&gt;</code>",
+        "nom": "div",
         "description": "La balise <code>&lt;div&gt;</code> définit une division ou une section, appelé aussi calque, dans un document HTML.<br>La balise <code>&lt;div&gt;</code> est utilisée pour regrouper des éléments sous forme de bloc et ainsi pouvoir les formater en CSS.<br>Remarque : Les navigateurs placent toujours un saut de ligne avant et après un élément <code>&lt;div&gt;</code>.",
         "attributs": [
           "id",
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;section&gt;</code>",
+        "nom": "section",
         "description": "L'élément HTML <code>&lt;section&gt;</code> représente une section générique d'un document, par exemple un groupe de contenu thématique. Une section commence généralement avec un titre.",
         "attributs": [
           "id",
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;h1&gt;<code>",
+        "nom": "h1",
         "description": "Les éléments <code>&lt;h1&gt;</code> à <code>&lt;h6&gt;</code> représentent six niveaux de titres dans un document, <code>&lt;h1&gt;</code> est le plus important et <code>&lt;h6&gt;</code> est le moins important. Un élément de titre décrit brièvement le sujet de la section qu'il introduit.",
         "attributs": [
           "id",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;a&gt;</code>",
+        "nom": "a",
         "description": "La balise <code>&lt;a&gt;</code> définit un lien hypertexte, qui est utilisé pour relier une page à l’autre.<br>L’attribut le plus important de la balise <code>&lt;a&gt;</code> est l’attribut href, qui indique la destination du lien.<br>Par défaut, les liens apparaissent dans tous les navigateurs suivant cette ordre : Un lien non visité est souligné et bleu, un lien visité est souligné et violet, Un lien actif est souligné et rouge. <br>Vous pouvez changer le style de vos liens grâce au CSS (Feuille de style).",
         "attributs": [
           "href",
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;img&gt;</code>",
+        "nom": "img",
         "description": "Dans l'exemple qui précède, on utilise l'élément <code>&lt;img&gt;</code> simplement. L'attribut <code>src</code> est obligatoire et contient le chemin de l'image qu'on souhaite afficher. L'attribut <code>alt</code> n'est pas obligatoire mais recommandé et contient une description textuelle de l'image ; il est recommandé pour des raisons d'accessibilité et sera utilisé par les lecteurs d'écran ou sera affiché si l'image ne peut pas être chargée.",
         "attributs": [
           "src",
@@ -59,7 +59,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;nav&gt;<code>",
+        "nom": "nav",
         "description": "L'élément HTML <code>&lt;nav&gt;</code> représente une section d'une page ayant des liens vers d'autres pages ou des fragments de cette page. Autrement dit, c'est une section destinée à la navigation dans un document (avec des menus, des tables des matières, des index, etc.).",
         "attributs": [
           "id",
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "nom": "<code>&lt;li&gt;<code>",
+        "nom": "li",
         "description": "L'élément HTML <code>&lt;li&gt;</code> est utilisé pour représenter un élément dans une liste. Il doit être contenu dans un élément parent : une liste ordonnée <code>&lt;ol&gt;</code>, une liste non ordonnée <code>&lt;ul&gt;</code> ou un menu <code>&lt;menu&gt;</code>. Dans les menus et les listes non ordonnées, les éléments de liste sont habituellement affichés en utilisant des puces. Dans les listes ordonnées, ils sont habituellement affichés avec compteur croissant à gauche, tel qu'un nombre ou une lettre.",
         "attributs": [
           "id",
