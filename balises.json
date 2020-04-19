@@ -1,0 +1,38 @@
+[
+      {
+        "nom": "<div>",
+        "description": "description du div",
+        "attributs": [
+          "id",
+          "class",
+          "..."
+        ]
+      },
+      {
+        "nom": "<section>",
+        "description": "description du section",
+        "attributs": [
+          "id",
+          "class",
+          "..."
+        ]
+      },
+      {
+        "nom": "<tr>",
+        "description": "description du tr, utilisation avec le td",
+        "attributs": [
+          "id",
+          "class",
+          "..."
+        ]
+      },
+      {
+        "nom": "<ul>",
+        "description": "description du ul, utilisation avec <li>",
+        "attributs": [
+          "id",
+          "class",
+          "..."
+        ]
+      }
+    ]
