@@ -1,6 +1,6 @@
 [
       {
         "head": "=======  Correction de l'exercice  =======",
-        "info": "<code>&lt;!DOCTYPE html&gt;<br>&lt;html lang='fr'&gt;<br>&lt;head&gt;<br>&lt;meta charset='UTF-8'&gt;<br>&lt;meta name='viewport' content='width=device-width, initial-scale=1.0'&gt;<br>&lt;title&gt;Correction&lt;/title&gt;<br>&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;section&gt;<br><br>&lt;h1 href='https://mmi.iut-clermont.fr' &gt;Un titre de niveau 1&lt;/h1&gt;<br>&lt;h2&gt;Un titre de niveau 2&lt;/h2&gt;<br>&lt;h3&gt;Un titre de niveau 3&lt;/h3&gt;<br>&lt;h4&gt;Un titre de niveau 4&lt;/h4&gt;<br>&lt;h5&gt;Un titre de niveau 5&lt;/h5&gt;<br>&lt;h6&gt;Un titre de niveau 6&lt;/h6&<br><br>&lt;/section&gt;<br><br>&lt;/body&gt;<br>&lt;/html&gt;</code>"
+        "info": "<code>&lt;!DOCTYPE html&gt;<br>&lt;html lang='fr'&gt;<br>&lt;head&gt;<br>&lt;meta charset='UTF-8'&gt;<br>&lt;meta name='viewport' content='width=device-width, initial-scale=1.0'&gt;<br>&lt;title&gt;Correction&lt;/title&gt;<br>&lt;/head&gt;<br>&lt;body&gt;<br><br>&lt;section&gt;<br><br>&lt;h1 href='https://mmi.iut-clermont.fr' &gt;Un titre de niveau 1&lt;/h1&gt;<br>&lt;h2&gt;Un titre de niveau 2&lt;/h2&gt;<br>&lt;h3&gt;Un titre de niveau 3&lt;/h3&gt;<br>&lt;h4&gt;Un titre de niveau 4&lt;/h4&gt;<br>&lt;h5&gt;Un titre de niveau 5&lt;/h5&gt;<br>&lt;h6&gt;Un titre de niveau 6&lt;/h6&<br>&lt;/section&gt;<br>&lt;/body&gt;<br>&lt;/html&gt;</code>"
       }
     ]
