@@ -1,10 +1,7 @@
 [
       {
-        "info": "Clique sur les balises pour les ajouter directement dans la zone de texte, clique sur &lt;header&gt; juste en dessous pour essayer : )"
-      },
-      {
         "nom": "header",
-        "description": "L’élément <code>&lt;header&gt;</code> définit l’en-tête d’un document ou d’une section. Il peut être utilisé pour contenir une introduction ou des liens de navigation.<br>Vous pouvez avoir plusieurs éléments <code>&lt;header&gt;</code> dans un même document.",
+        "description": "L’élément <code>&lt;header&gt;</code> définit l’en-tête d’un document ou d’une section. Il peut être utilisé pour contenir une introduction ou des liens de navigation.<br>Vous pouvez avoir plusieurs éléments <code>&lt;header&gt;</code> dans un même document.<br><br>Clique sur les balises pour les ajouter directement dans la zone de texte, clique sur &lt;header&gt; pour essayer : )",
         "attributs": [
           "id",
           "class"
